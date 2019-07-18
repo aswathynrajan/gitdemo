@@ -6,3 +6,4 @@ printf("enter two numbers");
 scanf("%d %d",&a,&b);
 printf("the sum is %d",(a+b));
 }
+hai thalleeeeeeeeeeeeeeee
